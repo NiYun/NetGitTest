@@ -4,6 +4,7 @@ package coml.test.hhh
 	{
 		public function Q1()
 		{
+			1+1
 		}
 	}
 }
